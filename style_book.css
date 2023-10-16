@@ -1,0 +1,33 @@
+body{
+    background-color: #F4F4F4;
+}
+label{
+    font-size: medium;
+    font-weight: 400;
+}
+.btn_size{
+    width: 24%;
+}
+
+.bg_color{
+    background-color: #F4F4F4;
+    border-radius: 10px;
+    
+}
+table td{
+    cursor: pointer;
+}
+
+.success, .error{
+    color: #fff;
+    padding: 5px;
+    text-align: center;
+    max-width: 100%;
+    margin: 5px auto;
+}
+.success{
+    background: greenyellow;
+}
+.error{
+    background: red;
+}
